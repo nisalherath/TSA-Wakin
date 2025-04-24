@@ -1,0 +1,25 @@
+:root{
+  --timing2: 100ms;
+  --jump-height: 35px;
+  --loading-bg-color:linear-gradient(to bottom, #000b33, #000000);
+  --dot-width: 50px;
+  --dot-height: 50px;
+  --dot-1-color: transparent;
+  --dot-2-color: transparent;
+  --dot-3-color: transparent;
+  --dot-4-color: transparent;
+  --font-color-loading:white;
+  --font-size-loading:50px;
+  --font-family-loading:"Combo", system-ui;
+
+}
+
+*:focus {
+  outline: none;
+}
+
+
+
+html, body {
+  overflow-x: hidden;
+}

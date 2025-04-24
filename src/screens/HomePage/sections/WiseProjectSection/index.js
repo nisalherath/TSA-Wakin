@@ -1,0 +1,1 @@
+export { WiseProjectSection } from "./WiseProjectSection";
