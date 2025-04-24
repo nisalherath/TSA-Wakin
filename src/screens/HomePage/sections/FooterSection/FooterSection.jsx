@@ -35,7 +35,7 @@ export const FooterSection = () => {
   ];
 
   return (
-    <footer className="w-full mt-[300px]">
+    <footer className="w-full mt-[00px]">
       {/* Newsletter subscription section */}
       <div className="w-full max-w-[1446px] h-[261px] mx-auto bg-[#aa27ba] relative px-[60px] py-[58px] flex justify-between">
         <div className="flex flex-col">

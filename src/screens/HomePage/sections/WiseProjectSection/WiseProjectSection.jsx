@@ -4,7 +4,7 @@ import { Button } from "../../../../components/ui/button";
 export const WiseProjectSection = () => {
   return (
     <section className="w-full bg-black py-12 relative">
-      <div className="container mx-auto px-4">
+      <div className="container mx-auto px-4 bg-black">
         <div className="flex flex-col md:flex-row gap-8">
           <div className="w-full md:w-1/2">
             <p className="font-desktop-heading-4 text-[length:var(--desktop-heading-4-font-size)] tracking-[var(--desktop-heading-4-letter-spacing)] leading-[var(--desktop-heading-4-line-height)] font-[number:var(--desktop-heading-4-font-weight)] [font-style:var(--desktop-heading-4-font-style)]">
