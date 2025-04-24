@@ -78,9 +78,9 @@ export const FooterSection = () => {
       {/* Main footer section */}
       <div className="w-full max-w-[1440px] mx-auto bg-[#f5f8ff] flex flex-col items-center">
         {/* Gradient heading */}
-        <h1 className="w-[906px] mt-[65px] [background:linear-gradient(90deg,rgba(255,221,2,1)_0%,rgba(233,131,13,1)_12%,rgba(2,153,49,1)_22%,rgba(51,109,230,1)_49%,rgba(226,0,26,1)_61%,rgba(170,39,186,1)_85%)] [-webkit-background-clip:text] bg-clip-text [-webkit-text-fill-color:transparent] [text-fill-color:transparent] [font-family:'Anton_SC',Helvetica] font-normal text-[90px] text-center tracking-[-1.80px] leading-[110px]">
-          CHAMPIONING WORKPLACE EQUALITY ACROSS EUROPE
-        </h1>
+        <h1 className="w-[906px] mt-[65px] font-bold text-[90px] text-center tracking-[-1.80px] leading-[110px] [font-family:'Anton_SC',Helvetica] bg-gradient-to-r from-[#ffdd02] via-[#e9830d] via-[#029931] via-[#336de6] via-[#e2001a] to-[#aa27ba] text-transparent bg-clip-text">
+  CHAMPIONING WORKPLACE EQUALITY ACROSS EUROPE
+</h1>
 
         {/* Social media icons */}
         <div className="flex justify-center gap-8 mt-[64px]">
